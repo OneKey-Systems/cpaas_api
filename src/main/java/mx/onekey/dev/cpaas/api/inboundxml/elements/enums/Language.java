@@ -20,7 +20,7 @@ public enum Language {
     @XmlEnumValue("en-gb") EN_GB("en-gb"),
     @XmlEnumValue("en-gb-wls") EN_GB_WLS("en-gb-wls"),
     @XmlEnumValue("en-in") EN_IN("en-in"),
-    @XmlEnumValue("en-us") EN_US("en-us"),
+    @XmlEnumValue("en-us") EN("en-us"),
     @XmlEnumValue("es-es") ES("es-es"),
     @XmlEnumValue("es-us") ES_US("es-us"),
     @XmlEnumValue("fr-ca") FR_CA("fr-ca"),

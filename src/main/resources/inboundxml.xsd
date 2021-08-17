@@ -66,12 +66,30 @@
     </xsd:simpleType>
     <xsd:simpleType name="tts_languages">
         <xsd:restriction base="xsd:string">
-            <xsd:enumeration value="en"/>
+            <xsd:enumeration value="cy-gb"/>
+            <xsd:enumeration value="da-dk"/>
+            <xsd:enumeration value="de-de"/>
+            <xsd:enumeration value="en-au"/>
             <xsd:enumeration value="en-gb"/>
-            <xsd:enumeration value="es"/>
-            <xsd:enumeration value="fr"/>
-            <xsd:enumeration value="it"/>
-            <xsd:enumeration value="de"/>
+            <xsd:enumeration value="en-gb-wls"/>
+            <xsd:enumeration value="en-in"/>
+            <xsd:enumeration value="en-us"/>
+            <xsd:enumeration value="es-es"/>
+            <xsd:enumeration value="es-us"/>
+            <xsd:enumeration value="fr-ca"/>
+            <xsd:enumeration value="fr-fr"/>
+            <xsd:enumeration value="is-is"/>
+            <xsd:enumeration value="it-it"/>
+            <xsd:enumeration value="ja-jp"/>
+            <xsd:enumeration value="nb-no"/>
+            <xsd:enumeration value="nl-nl"/>
+            <xsd:enumeration value="pl-pl"/>
+            <xsd:enumeration value="pt-br"/>
+            <xsd:enumeration value="pt-pt"/>
+            <xsd:enumeration value="ro-ro"/>
+            <xsd:enumeration value="ru-ru"/>
+            <xsd:enumeration value="sv-se"/>
+            <xsd:enumeration value="tr-tr"/>
         </xsd:restriction>
     </xsd:simpleType>
     <xsd:simpleType name="bcp_languages">
